@@ -1,3 +1,10 @@
 Set up git repo
 Deploy server to Heroku
 url: https://recipe-heroku-server.herokuapp.com/
+
+Set up database
+add initial data to database
+hook up server to database and get data
+
+add POST and PUT request functionality, hook up to front end and database 
+add DELETE request functionality, hook up to front end and database 
